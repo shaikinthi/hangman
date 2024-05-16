@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+canvas{
+    background-color: lightgray;
+}
+
+.warning{
+    color: red;
+}
+
+.success{
+    color: green;
+}
+.r{
+    background-color: aquamarine;
+}
